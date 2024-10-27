@@ -10,7 +10,7 @@ void read(char* str){
 
 }
 
-//parses input line
+//parses input line (fariza)
 char **parse(char *line){
 
 }
