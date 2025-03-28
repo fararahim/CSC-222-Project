@@ -1,1 +1,1 @@
-# CSC-222-Project
+Tech Shell Project
